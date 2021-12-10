@@ -1,0 +1,71 @@
+.container {
+    display: flex;
+    background-color: #1f2937;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+.links {
+    display:flex;
+    margin-left: auto;
+    color: #e5e7eb;
+    font-size: 18px;
+    gap: 3px;
+    list-style: none;
+}
+
+header .links {
+    font-size: 36px;
+    font-weight: bolder;
+    display: flex;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #f9faf8;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.info {
+    display: flex;
+    background: #1f2937;
+    padding-left: 110px;
+    padding-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+ 
+}
+
+.infoone {
+    display: block;
+    height: auto;
+    width: 550px;
+}
+.box {
+    display: flex;
+    width: 510px;
+    height: auto;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+}
+
+.herotit {
+    font-size: 48px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #F9F4F8;
+
+}
+.hero {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+button{
+    background: #3882f6;
+    color: white;
+    border-radius: 2px;
+}
