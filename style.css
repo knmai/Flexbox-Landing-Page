@@ -60,7 +60,7 @@ header .links {
 
 .herotit {
     font-size: 48px;
-    font-weight: bold;
+    font-weight: 800;
     font-family: Arial, Helvetica, sans-serif;
     color: #F9F4F8;
 
@@ -68,12 +68,17 @@ header .links {
 .hero {
     color: #e5e7eb;
     font-size: 18px;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 button{
     background: #3882f6;
     color: white;
-    border-radius: 2px;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    border-color: #3882f6;
+    margin-top: 10px;
 }
 
 .infotwo{
